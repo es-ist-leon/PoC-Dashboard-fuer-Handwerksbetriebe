@@ -1,0 +1,16 @@
+# App Store Connect Konfiguration
+# WICHTIG: Bitte mit deinen echten Daten ausfuellen!
+
+app_identifier("com.meisterbauer.dashboard")  # Bundle Identifier
+apple_id("DEINE_APPLE_ID@example.com")         # Deine Apple ID Email
+team_id("DEIN_TEAM_ID")                         # Apple Developer Team ID
+
+# App Store Connect Team (falls noetig)
+# itc_team_id("DEIN_ITC_TEAM_ID")
+
+# Fuer spezifische Umgebungen:
+for_platform :ios do
+  for_lane :release do
+    app_identifier("com.meisterbauer.dashboard")
+  end
+end

@@ -1,0 +1,1 @@
+Handwerker,Dashboard,Betrieb,Umsatz,Projekte,Finanzen,Handwerk,Meister,Auslastung,KPI

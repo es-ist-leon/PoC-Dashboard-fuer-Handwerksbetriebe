@@ -1,0 +1,12 @@
+# Matchfile - Zertifikat-Verwaltung
+# Match speichert Zertifikate und Profiles in einem privaten Git-Repo
+
+git_url("https://github.com/DEIN_USERNAME/ios-certificates.git")
+storage_mode("git")
+
+type("appstore")
+app_identifier(["com.meisterbauer.dashboard"])
+
+# Optional: Fuer mehrere Team-Mitglieder
+# team_id("DEIN_TEAM_ID")
+# username("DEINE_APPLE_ID@example.com")

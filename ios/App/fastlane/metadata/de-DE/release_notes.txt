@@ -1,0 +1,8 @@
+Version 1.0.0 - Erstveroeffentlichung
+
+- Business Dashboard mit KPI-Uebersicht
+- Projektmanagement mit Ampelstatus
+- Umsatzentwicklung und Kostenverteilung
+- Mitarbeiter-Auslastung
+- Termine und Deadlines Widget
+- Optimiert fuer iPhone und iPad

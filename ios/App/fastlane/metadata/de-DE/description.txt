@@ -1,0 +1,29 @@
+Handwerker Dashboard - Die Business-App fuer deinen Handwerksbetrieb.
+
+Behalte alle wichtigen Kennzahlen deines Betriebs immer im Blick:
+
+UMSATZ & FINANZEN
+- Monatlicher Umsatz mit Vorjahresvergleich und Zielerreichung
+- Offene und ueberfaellige Rechnungen auf einen Blick
+- Detaillierte Kostenverteilung (Material, Personal, Fahrzeuge)
+- 6-Monats-Umsatzentwicklung als interaktives Diagramm
+
+PROJEKTMANAGEMENT
+- Alle laufenden Projekte mit Ampelstatus (Planmaessig/Verzoegert/Abgeschlossen)
+- Fortschrittsanzeige und Budgetueberwachung pro Projekt
+- Deadline-Tracking mit automatischen Warnungen
+- Projektkosten vs. Budget in Echtzeit
+
+TEAM & RESSOURCEN
+- Mitarbeiter-Auslastung mit farbcodierter Anzeige
+- Projektzuordnung pro Mitarbeiter
+- Kapazitaetsplanung auf einen Blick
+
+TERMINE & FRISTEN
+- Anstehende Termine und Deadlines
+- Kategorisiert nach Typ: Angebote, Abnahmen, Lieferungen, Fristen
+- Uebersichtlicher Kalender-Widget
+
+Optimiert fuer iPhone und iPad. Perfekt fuer Handwerksmeister und Betriebsinhaber, die auch unterwegs den Ueberblick behalten wollen.
+
+Geeignet fuer alle Handwerksbetriebe mit 1-50 Mitarbeitern.
